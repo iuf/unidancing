@@ -10,12 +10,12 @@ Die Regeln befinden sich in [rules-de.md](blob/master/rules-de.md), dazu auch bi
 
 ## Todo
 
-- [ ] Collect video for test routines
-- [ ] Select 
-- [ ] Create testdata format
-- [ ] Create testdata
-- [ ] Simulate various calculations for the final score
-- [ ] Create test matrix to evaluate different scenarios
+- Collect video for test routines
+- Select 
+- Create testdata format
+- Create testdata
+- Simulate various calculations for the final score
+- Create test matrix to evaluate different scenarios
 
 ## Tests
 
@@ -26,7 +26,7 @@ Die Regeln befinden sich in [rules-de.md](blob/master/rules-de.md), dazu auch bi
 
 This is how a testfile for one routine could look like (yaml format):
 
-```yaml
+```
 rider: Kazuhiro Shimoyama
 event: Unicon 16 Brixen
 year: 2012
