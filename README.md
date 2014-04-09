@@ -6,7 +6,7 @@ New Competition rules for UniDancing (formerly known as Individual/Pair/Group Fr
 
 ## German
 
-Die Regeln befinden sich in [rules-de.md](blob/master/rules-de.md), dazu auch bitte die Anmerkungen ([annotations-de.md](blob/master/annotations-de.md)) lesen.
+Die Regeln befinden sich in [rules-de.md](rules-de.md), dazu auch bitte die Anmerkungen ([annotations-de.md](annotations-de.md)) lesen.
 
 ## Todo
 
@@ -51,7 +51,6 @@ mastery:
 		time: 60
 
 	...
-
 
 choreography:
 	...
