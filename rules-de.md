@@ -32,8 +32,6 @@ Die Qualität ist ausschlaggebend um gleiche Tricks mehrerer Fahrer zu untersche
 | 50% | Alle Tricks werden auf mittelmäßiger Qualität gefahren |
 | 10% | Alle Tricks sind sehr schlampig ausgeführt |
 
-Als Referenz für Bewegungsqualität dient im Moment der Skilltester ([http://einradfahren.de/skilltester](http://einradfahren.de/skilltester))
-
 #### Mastery (10 Punkte)
 
 Mastery gibt an, wieviel Kontrolle der Fahrer über seine Tricks hat. Die Abgrenzung zur Bewegungsqualität ist folgender: Während der Bewegungsausführung kann ein Wackler (etwa kippen des Oberkörpers nach vorne = Mastery) zwar die Bewegung "stolpern", dennoch kann dabei die Bewegungsqualität erhalten bleiben (relative Beziehung der Gliedmaßen). Abstiege sind ebenso der Mastery zuzuordnen.
@@ -58,7 +56,7 @@ Die Choreographie kann anhand einer Checkliste abgearbeitet werden. Die erreicht
 		<th>Punktwert</th>
 	</tr>
 	<tr>
-		<td>Ausgewogenes Verhältnis von Tricks und Artistik (50:50)</td>
+		<td>Ausgewogenes Verhältnis von Tricks und Artistik (50:50 plusminus 10)</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -117,7 +115,7 @@ Hierbei wird bewertet, ob die Aussage der Kür über die Artistik verstanden wir
 | ------ | ------- |
 | 10 | Die Aussage wird komplett über die Körpersprache verstanden. Die Durchdringung ist stets gegewärtig. |
 | 5 | Entweder die Aussage wird komplett über die Körpersprache verstanden oder die Durchdringung ist stets gegenwärtig, jedoch nicht beides zusammen. |
-| 1 | Weder die Aussage wird über die Körpersprache verstanden, noch ist die Durchdringung über die Dauer der Kür gegeben. |
+| 0-1 | Weder die Aussage wird über die Körpersprache verstanden, noch ist die Durchdringung über die Dauer der Kür gegeben. |
 
 ### Bewegungsqualität (10 Punkte)
 
@@ -128,7 +126,7 @@ Hierbei geht es um die Qualität der gezeigten Bewegungen. Als Hauptkriterien si
 | 10 | Die Bewegungen sind qualitativ hochwertig, Körperspannung ist allzeit präsent |
 | 6 | Die Bemühugen werden angedeutet, der letzte Schliff fehlt aber noch. Körperspannung nicht immer aktiv. |
 | 4 | Die Bewegungen werden nur angedeutet, aber nicht komplett gezeigt. Körperspannung ist nur selten präsent. |
-| 1 | Die Bewegungen werden nur schlampig ausgeführt, Körperspannung entfällt komplett. |
+| 0-1 | Die Bewegungen werden nur schlampig ausgeführt, Körperspannung entfällt komplett. |
 
 ## Judging
 
