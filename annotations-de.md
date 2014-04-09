@@ -4,7 +4,8 @@ Alle Anmerkungen zu den UniDancing Wettkampf Regeln
 
 ## Grundlegendes
 
-Voraussetzung zum Verstehen ist die [Struktur des Freestyle](http://einradfahren.de/training/freestyle/struktur-des-freestyle) [^1]
+- Voraussetzung zum Verstehen ist die [Struktur des Freestyle](http://einradfahren.de/training/freestyle/struktur-des-freestyle)
+- Die Regeln sind keineswegs voll und korrekt ausformuliert. Und das ist auch pure Absicht, es geht um die Idee dahinter
 
 ### Allgemeine vs. Detailierte Regelformulierung
 
@@ -29,7 +30,7 @@ Die Regeln können allgemein oder detailiert formuliert sein. Das hat beides Pro
 
 ### Tricks -> Qualität
 
-Aktuell beste Referenz für die Bewegungsqualität ist der [Skilltester](http://einradfahren.de/skilltester) [^2] Dabei ist zu beachten, dass die vorgenommene Bewertung des Skilltesters für das Training gedacht ist. Armbewegungen können im Wettkampf variieren.
+Aktuell beste Referenz für die Bewegungsqualität ist der [Skilltester](http://einradfahren.de/skilltester) Dabei ist zu beachten, dass die vorgenommene Bewertung des Skilltesters für das Training gedacht ist. Armbewegungen können im Wettkampf variieren.
 
 ### Tricks -> Mastery
 
@@ -60,6 +61,3 @@ Hier fehlt definitiv noch Fachwissen, um genaue Aussagen zur Körpersprache zu m
 Die Angaben, was eine gute und schlechte Qualität ausmachen sind schwammig. Hier noch bessere Erklärungen liefern.
 
 -> Recherche
-
-[^1]: http://einradfahren.de/training/freestyle/struktur-des-freestyle
-[^2]: http://einradfahren.de/skilltester
