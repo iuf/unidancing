@@ -28,6 +28,10 @@ Die Regeln können allgemein oder detailiert formuliert sein. Das hat beides Pro
 
 ## Kommentare zu den Regeln
 
+### Tricks
+
+Marie: In Relation zur Anzahl der Tricks setzen (sonst ein Trick auf guter Qualität = 10 Punkte in Qualität und Schwierigkeit).
+
 ### Tricks -> Qualität
 
 Aktuell beste Referenz für die Bewegungsqualität ist der [Skilltester](http://einradfahren.de/skilltester) Dabei ist zu beachten, dass die vorgenommene Bewertung des Skilltesters für das Training gedacht ist. Armbewegungen können im Wettkampf variieren.

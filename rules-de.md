@@ -4,7 +4,7 @@ Der UniDancing Wettkampf besteht aus den drei Komponenten Tricks, Artistik und C
 
 ## Ziel der Kür
 
-Die Kür sollte eine Aussage besitzen (In der Form von einem Thema, einer Geschichte oder einfach nur Bewegungsgefühl). Die Choreographie ist der Plan, wie diese Aussage umgesetzt wird und über die Artistik wird diese Aussage technische umgesetzt.
+Die Kür sollte eine Aussage besitzen (In der Form von einem Thema, einer Geschichte oder einfach nur Bewegungsgefühl). Die Choreographie ist der Plan, wie diese Aussage umgesetzt wird und über die Artistik wird diese Aussage technisch umgesetzt.
 
 ## Bewertungsinhalte
 
